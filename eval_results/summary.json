@@ -1,0 +1,94 @@
+[
+  {
+    "Model": "M0",
+    "forget": 0.95,
+    "forget_by_type": {
+      "exact": 0.0,
+      "paraphrased": 0.0,
+      "indirect": 4.0
+    },
+    "retain": 0.0,
+    "retain_by_type": {
+      "exact": 0.0,
+      "paraphrased": 0.0,
+      "indirect": 0.0
+    },
+    "general": 68.0,
+    "general_by_type": {
+      "factual": 90.0,
+      "mathematics": 40.0,
+      "science": 90.0,
+      "language": 90.0,
+      "machine_learning": 30.0
+    }
+  },
+  {
+    "Model": "Mall",
+    "forget": 31.43,
+    "forget_by_type": {
+      "exact": 35.0,
+      "paraphrased": 17.5,
+      "indirect": 48.0
+    },
+    "retain": 33.65,
+    "retain_by_type": {
+      "exact": 42.5,
+      "paraphrased": 16.67,
+      "indirect": 46.67
+    },
+    "general": 38.0,
+    "general_by_type": {
+      "factual": 50.0,
+      "mathematics": 20.0,
+      "science": 50.0,
+      "language": 50.0,
+      "machine_learning": 20.0
+    }
+  },
+  {
+    "Model": "MF",
+    "forget": 48.57,
+    "forget_by_type": {
+      "exact": 57.5,
+      "paraphrased": 27.5,
+      "indirect": 68.0
+    },
+    "retain": 0.0,
+    "retain_by_type": {
+      "exact": 0.0,
+      "paraphrased": 0.0,
+      "indirect": 0.0
+    },
+    "general": 42.0,
+    "general_by_type": {
+      "factual": 50.0,
+      "mathematics": 40.0,
+      "science": 40.0,
+      "language": 50.0,
+      "machine_learning": 30.0
+    }
+  },
+  {
+    "Model": "MR",
+    "forget": 0.95,
+    "forget_by_type": {
+      "exact": 0.0,
+      "paraphrased": 0.0,
+      "indirect": 4.0
+    },
+    "retain": 33.65,
+    "retain_by_type": {
+      "exact": 41.67,
+      "paraphrased": 20.0,
+      "indirect": 42.67
+    },
+    "general": 40.0,
+    "general_by_type": {
+      "factual": 10.0,
+      "mathematics": 50.0,
+      "science": 50.0,
+      "language": 60.0,
+      "machine_learning": 30.0
+    }
+  }
+]

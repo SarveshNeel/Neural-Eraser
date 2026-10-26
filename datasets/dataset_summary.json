@@ -1,0 +1,16 @@
+{
+  "input_profiles_file": "data/profiles.json",
+  "input_general_qa_file": "data/general.json",
+  "training": {
+    "num_profiles": 20,
+    "train_all_count": 200,
+    "train_forget_count": 50,
+    "train_retain_count": 150
+  },
+  "testing": {
+    "num_profiles": 20,
+    "test_forget_count": 105,
+    "test_retain_count": 315,
+    "test_general_count": 50
+  }
+}

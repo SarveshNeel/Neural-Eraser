@@ -1,0 +1,6 @@
+{
+  "num_profiles": 20,
+  "train_all_count": 200,
+  "train_forget_count": 50,
+  "train_retain_count": 150
+}
